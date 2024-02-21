@@ -13,7 +13,7 @@ This Jupyter Notebook contains the results of the RHOBS Internship Test. The not
 
 ## Instructions to rerun the notebook
 
-1. Open the Jupyter Notebook file `RHOBS_Internship_test.ipynb` on google collaboratory for fast file download.
+1. Open the Jupyter Notebook file `RHOBS_Internship_test_v2.ipynb` on google collaboratory for fast file download.
 2. Run the code cells to reproduce the analysis and results.
 3. Refer to the output of the last code cell for the three richest people.
-4. View the screenshot `result.png` for a visual representation of the output.
+4. View the screenshot `results_v2.png` for a visual representation of the output.
